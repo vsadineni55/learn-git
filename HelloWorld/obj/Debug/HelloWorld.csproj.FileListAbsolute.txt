@@ -1,0 +1,6 @@
+C:\Users\venkat\learn-git\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\venkat\learn-git\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\venkat\learn-git\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\venkat\learn-git\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\venkat\learn-git\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\venkat\learn-git\HelloWorld\obj\Debug\HelloWorld.pdb
