@@ -9,8 +9,6 @@ namespace HelloWorld
     class Class1
     {
 
-        //this is the change made in the git file for testing purpose 
-
-        //jhdbjdbs hbwd venjsgyugw sadienjjnwjhe
+        public string xyz;
     }
 }
